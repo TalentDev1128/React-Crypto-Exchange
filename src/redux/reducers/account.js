@@ -7,6 +7,7 @@ if (process.env.NODE_ENV === 'development') {
     initState = {};
 }
 
+
 const state = (state = initState, action) => {
     switch (action.type) {
         case SINGIN:
