@@ -1,6 +1,3 @@
-
-![APMLicense](https://img.shields.io/apm/l/vim-mode.svg)
-
 # React-Crypto-Exchange
 * SPA
 * Animations
